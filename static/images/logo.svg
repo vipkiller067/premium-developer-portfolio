@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" width="160" height="100">
+  <!-- V Left arm (White) -->
+  <polygon points="10,20 35,20 60,85 35,85" fill="#f8f9fa" />
+  
+  <!-- V Right arm (Cyan) -->
+  <polygon points="35,85 60,85 85,20 60,20" fill="#00b4d8" />
+  
+  <!-- P stem and bowl (White) -->
+  <path d="M75,20 L115,20 C140,20 140,55 115,55 L100,55 L100,85 L75,85 Z M100,35 L110,35 C120,35 120,40 110,40 L100,40 Z" fill="#f8f9fa" />
+</svg>

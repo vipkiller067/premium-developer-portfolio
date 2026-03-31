@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Dark navy blue background -->
+  <rect width="100" height="100" fill="#141c25" />
+  <!-- Crisp white VP text, center-aligned -->
+  <text x="50" y="68" font-family="'Arial Black', 'Montserrat', 'Segoe UI', sans-serif" font-weight="900" font-size="52" fill="#ffffff" text-anchor="middle" letter-spacing="1">VP</text>
+</svg>
